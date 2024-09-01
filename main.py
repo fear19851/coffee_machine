@@ -7,5 +7,5 @@ from money_machine import MoneyMachine
 bafkbnaosbnfoasbnfaosklnloafksnadfklsnkl;afsmnkl;afsnkl;afsnmlp;fas
 aflsmpl;afmslfasm
 afksnmafksklp;
-
+fsaafsfasfasasasasasasasasasasasasasasasasasas
 '''
